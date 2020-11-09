@@ -1,0 +1,7 @@
+When compiling type the commands as follows:
+
+make
+
+./airport
+
+
